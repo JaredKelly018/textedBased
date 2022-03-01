@@ -83,10 +83,10 @@ const textNodes = [
     },
     {
         id:4,
-        text: '??????????????',
+        text: '｢(ﾟﾍﾟ)?',
         options: [
             {
-                text: 'yes',
+                text: 'yes?',
                 nextText:5
             }
         ]

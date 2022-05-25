@@ -76,7 +76,7 @@ const textNodes = [
                 nextText:5
             },
             {
-                text:'no',
+                text:'NO',
                 nextText:4
             }
         ]
